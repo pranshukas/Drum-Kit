@@ -5,7 +5,7 @@ A Digital Drum Kit that allows the user to play Drum Sounds when pressing down o
 
 ## Deployment
 
-Deployed Website: 
+Deployed Website: https://pranshukas.github.io/Drum-Kit/
 
 
 ![Drum-Kit](./images/Capture.png)
